@@ -1,4 +1,3 @@
-package hw;
 
 import java.util.*;
 
@@ -7,9 +6,9 @@ public class T921 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
-		System.out.println("è«‹è¼¸å…¥Aå€¼:");
+		System.out.println("½Ð¿é¤JA­È:");
 		int a = scn.nextInt();
-		System.out.println("è«‹è¼¸å…¥Bå€¼:");
+		System.out.println("½Ð¿é¤JB­È:");
 		int b = scn.nextInt();
 		if (a != b) {
 			if (a > b) {

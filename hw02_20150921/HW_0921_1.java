@@ -1,20 +1,20 @@
-package hw;
+
 
 import java.util.*;
 
-public class P88 {
+public class HW_0921_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		Scanner scn = new Scanner(System.in);
-		System.out.println("½Ð¿é¤J¨­°ª:");
+		System.out.println("è«‹è¼¸å…¥èº«é«˜");
 		int tall = scn.nextInt();
-		System.out.println("½Ð¿é¤JÅé­«:");
+		System.out.println("è«‹è¼¸å…¥é«”é‡");
 		int m = scn.nextInt();
-		if (tall>165 && m<=45){System.out.println("¥i¥H°l");}
+		if (tall>165 && m<=45){System.out.println("å¯ä»¥è¿½");}
 	else{
-		System.out.println("¤£­n°l");
+		System.out.println("ä¸è¦è¿½");
 	
 		
 	}

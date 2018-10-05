@@ -1,8 +1,7 @@
-package hw;
 
 import java.util.*;
 
-public class E921 {
+public class T921_2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);

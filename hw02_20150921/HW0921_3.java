@@ -1,8 +1,8 @@
-package hw;
+
 
 import java.util.*;
 
-public class T9215 {
+public class HW0921_3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
